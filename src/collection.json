@@ -1,0 +1,9 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "embed-assets": {
+      "description": "A blank schematic.",
+      "factory": "./embed-assets/index#embedAssets"
+    }
+  }
+}
